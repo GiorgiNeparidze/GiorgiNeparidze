@@ -11,11 +11,11 @@ I am also interessted in to have some freelance experience, but as my objective 
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)]
+[![linkedin](./img/linkedin-dark.svg)]
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)]
+[![instagram](./img/instagram-dark.svg)]
 
 
 ### Languages and Tools:
@@ -31,26 +31,13 @@ I am also interessted in to have some freelance experience, but as my objective 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 
 <br />
 <br />
 
 
-<!--START_SECTION:waka-->
-
-
-```text
-MDX          2 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.69 %
-TypeScript   1 hr 31 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
-JavaScript   1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-```
-
-
-<!--END_SECTION:waka-->
 
 
 
