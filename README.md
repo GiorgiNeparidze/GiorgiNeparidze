@@ -11,7 +11,7 @@ I am also interessted in to have some freelance experience, but as my objective 
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandlogos.net%2Flinkedin-icon-vector-download-89492.html&psig=AOvVaw0WRuwVlXUzgtB_MF8i-0-8&ust=1654012543978000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDi1ILLh_gCFQAAAAAdAAAAABAJ" style="padding-right:10px;" />](https://www.linkedin.com/in/giorgi-neparidze-992a67239/)
+[<img align="left" alt="linkedin" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandlogos.net%2Flinkedin-icon-vector-download-89492.html&psig=AOvVaw0WRuwVlXUzgtB_MF8i-0-8&ust=1654012543978000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDi1ILLh_gCFQAAAAAdAAAAABAJ" style="padding-right:10px;" />(https://www.linkedin.com/in/giorgi-neparidze-992a67239/)]
 [<img align="left" alt="HTML5" width="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.m.wikipedia.org%2Fwiki%2FFile%3AFacebook_logo_36x36.svg&psig=AOvVaw2VEokMamH_X61I4ysGW38J&ust=1654012278246000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiM9oTKh_gCFQAAAAAdAAAAABAD" style="padding-right:10px;" />](https://www.facebook.com/Kcllitkisser)
 &nbsp;&nbsp;
 [<img align="left" alt="HTML5" width="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw1o6JGKZhz11rJ69rjvVW2i&ust=1654012310562000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjWm5XKh_gCFQAAAAAdAAAAABAD" style="padding-right:10px;" />](https://www.instagram.com/nepharidzegio/)
